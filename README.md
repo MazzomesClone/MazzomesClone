@@ -1,4 +1,4 @@
-<h1 align="center>Hi there welcome to Mazzomes_Clone's GitHub 👋</h1>
+<h1 align="center">Hi there! Welcome to Mazzomes_Clone's GitHub 👋</h1>
            
 <p align="center"
     <a href="https://github.com/mazzomesclone/github-readme-stats"><img alt="Marco's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mazzomesclone&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
