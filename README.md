@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mazzomesclone/mazzomesclone/output/github-snake.svg#gh-light-mode-only" />
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mazzomesclone/mazzomesclone/output/github-snake-dark.svg#gh-dark-mode-only" />
+</p>
