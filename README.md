@@ -15,8 +15,11 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/mazzomesclone/mazzomesclone/output/github-snake-dark.svg#gh-dark-mode-only" />
 </p>
+
+<!--
 <p align="center">
   <a href="https://github.com/MazzomesClone">
     <img src="https://komarev.com/ghpvc/?username=MazzomesClone" alt="page views" />
   </a>
 </p>
+-->
