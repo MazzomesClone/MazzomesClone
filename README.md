@@ -1,9 +1,14 @@
-<h1 align="center">Hi there! Welcome to Mazzomes_Clone's GitHub 👋</h1>
+<p align="center">
+      <img src="https://user-images.githubusercontent.com/49418843/221113893-be356578-78e6-403e-b8bb-2227a190a54c.png" />
+</p>
+
+<h1 align="center">Mazzomes_Clone</h1>
 <h2 align="center">Frontend Software Engineer: Co-Founder File14 Studios</h2>
+
 <p align="center">
       💻 Discord: Mazzomes_Clone#7777<br>
       📫 Email: mazzmadbee@gmail.com<br>
-      🐦 Twitter: @Mazzomes_Clone<br>
+      🐦 Twitter: <a href="https://twitter.com/Mazzomes_Clone" target="_blank" rel="noreferrer">@Mazzomes_Clone</a><br>
       <!-- * 💻 Checkout my CV <a href="https://redm3.github.io/marco-wells/" target="_blank" rel="noreferrer">Click here 🖱️ </a><br> -->
       🅵🅸🅻🅴1️⃣4️⃣ <a href="https://test.file14.xyz" target="_blank" rel="noreferrer">File14 Site</a><br>
 <p align="center">File14 studios produces engaging & robust Web3/Blockchain Solutions</p>
