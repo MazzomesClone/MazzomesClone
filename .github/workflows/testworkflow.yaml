@@ -14,4 +14,4 @@ jobs:
     steps:
       - name: Echo input
         run: |
-          echo "The input was: ${{ github.event.inputs.customInput }}
+          echo "The input was: ${{ github.event.inputs.customInput }}"
