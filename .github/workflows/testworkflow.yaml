@@ -1,0 +1,16 @@
+name: Input Echo Workflow
+
+on:
+  workflow_dispatch:
+    inputs:
+      customInput:
+        description: 'Enter your input'    
+        required: true
+        default: 'Hello, World!'
+
+jobs:
+  printInput:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Echo input
+        run: echo "The input was: ${{ github.event.inputs.customInput }}"
