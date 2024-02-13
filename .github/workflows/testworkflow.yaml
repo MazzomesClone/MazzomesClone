@@ -4,9 +4,7 @@ on:
   workflow_dispatch:
     inputs:
       customInput:
-        description: 'Enter your input'    
-        required: true
-        default: 'Hello, World!'
+        description: 'Enter your input'
 
 jobs:
   printInput:
@@ -15,3 +13,8 @@ jobs:
       - name: Echo input
         run: |
           echo "The input was: ${{ github.event.inputs.customInput }}"
+          
+      - name: Get latest Code
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.inputs.version-tag }}
