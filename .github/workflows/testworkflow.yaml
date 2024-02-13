@@ -17,4 +17,4 @@ jobs:
       - name: Get latest Code
         uses: actions/checkout@v4
         with:
-          ref: ${{ github.event.inputs.version-tag }}
+          ref: ${{ github.event.inputs.customInput }}
